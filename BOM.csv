@@ -10,9 +10,5 @@ R2,"100 kohm 1% 0805, Yageo RC0805FR-07100KL",C96346,1,,,https://www.lcsc.com/pr
 "R3, R4","0 ohm 0805, Yageo RC0805FR-070RL",C100045,2,,,
 R5,"3 ohm 1% 0805, Yageo RC0805FR-073RL",C137528,1,,,https://www.lcsc.com/product-detail/C137528.html
 U1,"FPC csatlakozó 24 pin 0.5 mm, SHOU HAN FPC 0.5-24P (Amphenol F32Q helyett)",C6364666,1,1,,https://www.lcsc.com/product-detail/C6364666.html
-"U2 (host)","Raspberry Pi Zero 2 WH",,1,,,
-J1,"2x20 pin 2.54 mm anya fejléc",C2977589,1,,,https://www.lcsc.com/product-detail/C2977589.html
-Display,"7.5 inch e-paper 880x528 SSD1677, HINK-E075A07-A0",,1,,,
-Hardware,"M2.5 távtartó + csavar",,4,,,
-"SD card (optional)","microSD 16 GB+",,1,,,
-"PSU (optional)","5 V micro-USB tápegység",,1,,,
+J1,"2x20 pin 2.54 mm pin header",C2977589,1,,,https://www.lcsc.com/product-detail/C2977589.html
+
