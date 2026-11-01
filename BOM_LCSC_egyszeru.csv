@@ -1,0 +1,18 @@
+Reference number,Description,LCSC part number,Needed number,Minimum order number,Price of minimal order number/needed number,link
+"C7, C8, C10, C12, C13, C14, C15, C16, C17, C18, C19","1 uF 50 V X7R 0805 MLCC, Samsung CL21B105KBFNNNE",C28323,11,20,USD 1.13,https://www.lcsc.com/product-detail/C28323.html
+C20,"10 uF 25 V X5R 0805 MLCC, Samsung CL21A106KAYNNNE",C15850,1,20,,https://www.lcsc.com/product-detail/C15850.html
+C21,"100 nF 50 V X7R 0805 MLCC, Samsung CL21B104KBCNNNC",C1711,1,,,https://www.lcsc.com/product-detail/C1711.html
+"D1, D2, D3","Schottky dióda 30 V 0.5 A SOD-123, onsemi MBR0530T1G",C82046,3,,,https://www.lcsc.com/product-detail/C82046.html
+L1,"47 uH árnyékolt induktivitás 4.8x4.8x2.8 mm, Bourns SRR4028-470Y",,1,,,
+Q1,"N-MOSFET 30 V SOT-323, Vishay Si1308EDL-T1-GE3 (Si1304BDL helyett)",C469327,1,,,https://www.lcsc.com/product-detail/C469327.html
+R1,"0.47 ohm 1% 0805, Yageo RL0805FR-070R47L",,1,,,
+R2,"100 kohm 1% 0805, Yageo RC0805FR-07100KL",C96346,1,,,https://www.lcsc.com/product-detail/C96346.html
+"R3, R4","0 ohm 0805, Yageo RC0805FR-070RL",C100045,2,,,
+R5,"3 ohm 1% 0805, Yageo RC0805FR-073RL",C137528,1,,,https://www.lcsc.com/product-detail/C137528.html
+U1,"FPC csatlakozó 24 pin 0.5 mm, SHOU HAN FPC 0.5-24P (Amphenol F32Q helyett)",C6364666,1,1,,https://www.lcsc.com/product-detail/C6364666.html
+"U2 (host)","Raspberry Pi Zero 2 WH",,1,,,
+J1,"2x20 pin 2.54 mm anya fejléc",C2977589,1,,,https://www.lcsc.com/product-detail/C2977589.html
+Display,"7.5 inch e-paper 880x528 SSD1677, HINK-E075A07-A0",,1,,,
+Hardware,"M2.5 távtartó + csavar",,4,,,
+"SD card (optional)","microSD 16 GB+",,1,,,
+"PSU (optional)","5 V micro-USB tápegység",,1,,,
