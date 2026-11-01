@@ -20,6 +20,8 @@ The software I used, is as open-source project, called Inkypi, made by Faith Ak.
 - Clone the repository: ```git clone https://github.com/fatihak/InkyPi.git```
 - Navigate to the project directory: ```cd InkyPi```
 - Run the installation script with sudo: ```sudo bash install/install.sh -W epd7in5b_HD``` (as the screen I am using is an exact copy of the Waveshare 7.5 in model.)
+- Restart your pi
+- Head to https://<your_pi_ip> for configuration and first time setup.
 
 ### Example software
 There is a copy of an example software in this repo, called "ex_software.bin" which is an image of the directory of Inkypi on my RPI with my screen model.
