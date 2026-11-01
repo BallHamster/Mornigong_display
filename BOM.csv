@@ -10,4 +10,5 @@ R2,"100 kohm 1% 0805, Yageo RC0805FR-07100KL",C96346,1,100,0.47,https://www.lcsc
 R5,"3 ohm 1% 0805, Yageo RC0805FR-073RL",C137528,1,50,0.94,https://www.lcsc.com/product-detail/C137528.html
 U1,"FPC connector 24 pin 0.5 mm, SHOU HAN FPC 0.5-24P",C6364666,1,5,0.86,https://www.lcsc.com/product-detail/C6364666.html
 J1,"2x20 pin 2.54 mm pin header",C2977589,1,5,1.62,https://www.lcsc.com/product-detail/C2977589.html
-
+"-", "Screen","-",1,1,15,https://www.aliexpress.com/item/1005006901112592.html
+U2, "Raspberry pi zero 2 w",1,1,20,https://malnapc.hu/raspberry-pi-zero-2-w?src=raspberrypi
