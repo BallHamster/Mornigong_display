@@ -17,6 +17,13 @@ This is the 3d render of the board. It is designed to be a hat for the zero 2 w.
 The software I used, is as open-source project, called Inkypi, made by Faith Ak. (https://github.com/fatihak/InkyPi)
 ### Installation guide
 - Write an image of an official Raspberry pi OS lite 64bit on your sdcard/usb drive.
-- Clone the repository: 'git clone https://github.com/fatihak/InkyPi.git'
-- Navigate to the project directory: cd InkyPi
-- Run the installation script with sudo: sudo bash install/install.sh [-W <waveshare device model>]
+- Clone the repository: ```git clone https://github.com/fatihak/InkyPi.git```
+- Navigate to the project directory: ```cd InkyPi```
+- Run the installation script with sudo: ```sudo bash install/install.sh -W epd7in5b_HD``` (as the screen I am using is an exact copy of the Waveshare 7.5 in model.)
+
+### Example software
+There is a copy of an example software in this repo, called "ex_software.bin" which is an image of the directory of Inkypi on my RPI with my screen model.
+
+# Important
+- This project is not tested yet, it only works in theory.
+- All the credits go to Faith ak, for the Inkypi software.
